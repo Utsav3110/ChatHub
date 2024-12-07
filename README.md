@@ -36,8 +36,8 @@ A real-time chat application built with the **MERN stack**, **Socket.io**, **Tai
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Utsav3110/ChatHub.git
+cd ChatHub
 ```
 
 ### 2. Install dependencies
